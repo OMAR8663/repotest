@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image_2</folder>
+	<filename>000000.png</filename>
+	<path>D:\training\image_2\000000.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1224</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>714</xmin>
+			<ymin>153</ymin>
+			<xmax>802</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+</annotation>
